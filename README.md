@@ -36,3 +36,14 @@ Primjer s GCC compilerom:
 ```bash
 gcc main.c -o knjiznica
 ./knjiznica
+
+## Pokretanje
+
+Otvori Code::Blocks.
+Napravi novi C projekt ili otvori postojeći.
+Preuzmi main.c s GitHuba:
+otvori main.c
+klikni Raw
+kopiraj kod
+zalijepi u Code::Blocks
+Klikni Build and Run.
