@@ -116,7 +116,7 @@ int main() {
                 break;
 
             case 11:
-                izveziHTML(knjige, n)
+                izveziHTML(knjige, n);
                 break;
 
             case 0:
